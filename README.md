@@ -6,7 +6,9 @@ Repositorio para guardar resumos e estudos sobre IA
 
 
 ## 🖥️ Resumos das Aulas
-
+| Aulas | Tema da Aula | Resumos |
+|-------|---------|-----------|
+| Aula 1 | O que é IA Generativa| [https://github.com/Gnunes03/TesteGIT/blob/main/introducao%20financeiro%20com%20IA.pdf]() |
 
 | INTRODUÇÃO | |[INTRODUÇÃO ](https://github.com/Gnunes03/TesteGIT/blob/main/introducao%20financeiro%20com%20IA.pdf)() |
 
