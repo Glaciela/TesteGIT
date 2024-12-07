@@ -10,7 +10,6 @@ Repositorio para guardar resumos e estudos sobre AWS
 
 ## 🖥️ Resumos das Aulas
 
-| Aulas | Tema da Aula | Resumos |
-|-------|---------|-----------|
+
 | INTRODUÇÃO | [[Resumo](https://github.com/Gnunes03/TesteGIT/blob/main/introducao%20financeiro%20com%20IA.pdf)]() |
-| Aula 2 | Modelos de linguagem grandes |
+|  MENU EXCEL| [MENU] https://github.com/Gnunes03/Caixa-IA-Generativa-DIO/blob/main/menu%20Excel%20Financeiro%20IA.pdf |
