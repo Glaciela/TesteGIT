@@ -4,14 +4,14 @@ CAIXA - IA Generativa com Microsoft Copilot
 # Como organizar sua vida Financeira com Planilhas Inteligentes e IA
 Repositorio para guardar resumos e estudos sobre IA
 | Aulas | Tema da Aula | Resumos |
-|-------|---------|-----------|
+|-------|-----------|
 | Aula 1 | O que é IA Generativa| [Resumo]() |
 | Aula 2 | Modelos de linguagem grandes |
 
 
 ## 🖥️ Resumos das Aulas
 | Tema da Aula | Resumos |
-|-------|---------|-----------|
+|-------|-----------|
 | INTRODUÇÃO| [https://github.com/Gnunes03/TesteGIT/blob/main/introducao%20financeiro%20com%20IA.pdf]() |
 | INTRODUÇÃO| [https://github.com/Gnunes03/TesteGIT/blob/main/introducao%20financeiro%20com%20IA.pdf]() |
 | INTRODUÇÃO | |[INTRODUÇÃO ](https://github.com/Gnunes03/TesteGIT/blob/main/introducao%20financeiro%20com%20IA.pdf)() |
