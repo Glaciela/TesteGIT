@@ -8,7 +8,7 @@ Repositorio para guardar resumos e estudos sobre IA
 ## 🖥️ Resumos das Aulas
 
 
-| INTRODUÇÃO | |[INTRODUÇÃO ](https://github.com/Gnunes03/TesteGIT/blob/main/introducao%20financeiro%20com%20IA.pdf)]]|
+| INTRODUÇÃO | |[INTRODUÇÃO ](https://github.com/Gnunes03/TesteGIT/blob/main/introducao%20financeiro%20com%20IA.pdf)() |
 
 |  PRÉ REQUISITOS| |[PRÉ REQUISITOS]([https://github.com/Gnunes03/Caixa-IA-Generativa-DIO/blob/main/PRE%20requisitos%20Financeiro%20com%20IA.pdf)]() |]|
 
