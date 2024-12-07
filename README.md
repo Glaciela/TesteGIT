@@ -1,12 +1,9 @@
 # Caixa-IA-Generativa-DIO
 CAIXA - IA Generativa com Microsoft Copilot
-# CAIXA - IA Generativa com Microsoft Copilot
-Repositorio para guardar resumos e estudos sobre AWS
-![image](https://github.com/Gnunes03/Caixa-IA-Generativa-DIO/blob/main/ia-genera.jpg)
 
-## 📑 documentação
+# Como organizar sua vida Financeira com Planilhas Inteligentes e IA
+Repositorio para guardar resumos e estudos sobre IA
 
-  
 
 ## 🖥️ Resumos das Aulas
 
