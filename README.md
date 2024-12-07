@@ -12,5 +12,5 @@ Repositorio para guardar resumos e estudos sobre AWS
 
 | Aulas | Tema da Aula | Resumos |
 |-------|---------|-----------|
-| Aula 1 | O que é IA Generativa| [Resumo]() |
+| INTRODUÇÃO | [[Resumo](https://github.com/Gnunes03/TesteGIT/blob/main/introducao%20financeiro%20com%20IA.pdf)]() |
 | Aula 2 | Modelos de linguagem grandes |
